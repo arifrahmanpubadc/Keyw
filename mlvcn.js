@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="https://rdrchats.com.com"; } LoadAd();
+function LoadAd() { parent.location.href="https://rdrchats.com"; } LoadAd();
