@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="https://bhbajce.bustyaffar.com/s/63ef87ee2912d?track=Trunks&ext_click_id=Trunks"; } LoadAd();
+function LoadAd() { parent.location.href="https://bhbajce.clicksmatching.com/s/63ef87ee2912d?track=Nxt&ext_click_id=Nxt"; } LoadAd();
